@@ -1,8 +1,0 @@
-def T()
-assert_equal([], s:0)
-if 0
-([])
-redi =>l[0]
-redi END
-enddef
-defc
